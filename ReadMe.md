@@ -20,7 +20,7 @@ DTAESurv is trained using a unified joint learning objective that tightly integr
 
 ## 🚀 Framework Architecture
 
-![DTAESurv Framework](assets/framework.png)
+![DTAESurv Framework](assets/DTAESurv.png)
 
 *Figure 1: The overall architecture of DTAESurv. The framework consists of (a) an uncertainty-aware adaptive swap noise module that selectively perturbs unstable features based on variance and correlation scores; (b) a subspace-based Transformer encoder that captures hierarchical feature interactions; and (c) a multi-task prediction head jointly optimized for reconstruction, noise localization (mask prediction), and survival analysis.*
 
